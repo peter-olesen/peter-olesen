@@ -1,4 +1,8 @@
-### Hi there 👋
+### Howdy Partner 🤠
+
+I am a student at TECHCOLLEGE, where I am studying Web Development.
+
+The current curriculum includes HTML5, CSS3, and a basic understanding of JavaScript.
 
 <!--
 **peter-olesen/peter-olesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
